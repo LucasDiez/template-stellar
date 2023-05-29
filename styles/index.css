@@ -1,0 +1,7 @@
+.gradient {
+    background: linear-gradient(to bottom,  #7567b6, #f88da5);
+}
+
+header {
+    display: flexbox;
+}
